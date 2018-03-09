@@ -20,13 +20,10 @@ This is a simple example to demonstrate how to do Python remote debugging in VS 
 
     `code .`
 
-1. Put a breakpoint in the while loop in main.py, line 18
-
 1. Run the main.py sample
   
     `python main.py`
 
 1. Hit F5 in VS Code
 
-
-
+1. Put a breakpoint in the while loop in main.py, line 18
