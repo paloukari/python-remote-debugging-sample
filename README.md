@@ -14,7 +14,7 @@ This is a simple example to demonstrate how to do Python remote debugging in VS 
 
 1. Install the ptvsd package
 
-    `pip install ptvsd`
+    `pip install ptvsd==3.0.0`
 
 1. Open VS Code
 
